@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @wejdani
 - 👀 I’m interested in Game Development and Data Science
-- 🌱 I’m currently learning Data Analysis and EDA
+- 🌱 I’m currently learning Data Analysis and Machine Learning, Game Design, Game Development. 
 - 💞️ I’m looking to collaborate on any interesting projects!
 - 📫 How to reach me: wejdan.alahmadi94@gmail.com
 
